@@ -1,0 +1,5 @@
+outs:
+- md5: 06f97bf233c271aa6d3f894b495e0874
+  size: 107
+  hash: md5
+  path: student_performance_pca.csv
